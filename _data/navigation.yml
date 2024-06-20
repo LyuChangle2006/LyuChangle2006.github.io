@@ -2,12 +2,12 @@
 main:
   - title: "Learning"
     url: /portfolio/  
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Resources"
     url: /publications/
+
+    - title: "Personal Life"
+    url: /portfolio/
     
   - title: "Useful Links"
     url: /markdown/
