@@ -1,5 +1,5 @@
 ---
-title: "Lecture Note of Probability Theory"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This note is based on the course 'Probability Theory'(MATH3007) of USTC at the autumn of 2022 and covers all the content of this course'
