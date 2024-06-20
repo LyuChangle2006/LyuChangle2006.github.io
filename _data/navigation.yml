@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Learning"
+  - title: "Learning Experience"
     url: /portfolio/  
         
   - title: "Resources"
     url: /publications/
 
-    - title: "Personal Life"
+    - title: "Amateur Interest"
     url: /portfolio/
     
   - title: "Useful Links"
