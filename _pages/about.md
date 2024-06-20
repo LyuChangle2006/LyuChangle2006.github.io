@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a second year undergraduate student from [School of Gifted Young]([https://sgy.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I'm a second year undergraduate student from [School of Gifted Young]([https://sgy.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/). I'm also a member of Hua Loo-Keng Talent Program in Mathematics of USTC. My current interest includes many aspects in geometry and topology, such as complex geometry and characteristic class theory.
 
 
-[Email](lcl20060401lcl@mail.ustc.edu.cn) / [Github](https://github.com/QiuDi233) / 
+
+[Email](lcl20060401lcl@mail.ustc.edu.cn) / 
