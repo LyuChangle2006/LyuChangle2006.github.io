@@ -47,7 +47,8 @@ Grade List
   * Moral and Legal Education(95)
   * Introduction to Chinese Important Thoughts II(88)
   * Basic Sports(B+)
-======
+ 
+
 All Curriculum GPA: 4.15
 All Curriculum Weighted Average Score: 94.78
 Ranked as #1/262 in the department of mathematics by Spring 2024.
