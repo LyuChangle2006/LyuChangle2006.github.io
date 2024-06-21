@@ -2,7 +2,6 @@
 title: "Probability Theory Lecture Note"
 collection: publications
 permalink: /Resources/Prob_Lec_Note
-excerpt: ''
 paperurl: 'http://academicpages.github.io/files/课程笔记Latex版.pdf'
 ---
 
