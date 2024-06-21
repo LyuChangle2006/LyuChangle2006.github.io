@@ -2,5 +2,5 @@
 title: "Note for Riemannian Surface"
 collection: publications
 excerpt: 'This is the note on Riemannian surface. The reference textbook is "Riemannian Surface" by Mei Jiaqiang.'
-paperurl: 'http://academicpages.github.io/files/黎曼曲面.pdf'
+paperurl: 'http://LyuChangle2006.github.io/files/黎曼曲面.pdf'
 ---
