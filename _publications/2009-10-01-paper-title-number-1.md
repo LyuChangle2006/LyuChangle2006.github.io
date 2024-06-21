@@ -1,7 +1,6 @@
 ---
 title: "Probability Theory Lecture Note"
 collection: publications
-permalink: /Resources/Prob_Lec_Note
 paperurl: 'http://LyuChangle2006.github.io/files/课程笔记Latex版.pdf'
 ---
 
