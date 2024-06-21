@@ -5,56 +5,36 @@ permalink: /Learning/
 author_profile: true
 ---
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+I was admitted to School of Gifted Young, USTC in fall 2022.
 
-Work experience
+Grade List
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: 
+  * 
 
-* Fall 2015: Research Assistant
+* Fall 2023: 
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Spring 2023: 
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * Fall 2022: 
+  * Mathematical Analysis B1(100)
+  * Foundations of Geometry(95)
+  * Mechanics A(90)
+  * Computer Programming A(96)
+  * English Communication Intermediate I(95)
+  * English Reading & Writing Upper Intermediate I(96)
+  * Moral and Legal Education(95)
+  * Introduction to Chinese Important Thoughts II(88)
+  * Basic Sports(B+)
+Semester GPA=4.15/4.30
   
-Talks
+
+Prize and Scholarship
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 
