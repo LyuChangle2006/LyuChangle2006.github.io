@@ -22,7 +22,7 @@ Grade List
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
- * Fall 2022(Semester GPA=4.15/4.30): 
+* Fall 2022(Semester GPA=4.15/4.30): 
   * Mathematical Analysis B1(100)
   * Foundations of Geometry(95)
   * Mechanics A(90)
