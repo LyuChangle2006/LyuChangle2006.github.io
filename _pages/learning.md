@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Learning Interest"
-permalink: /Interest/
+title: "Learning Experience"
+permalink: /Learning/
 author_profile: true
 ---
 
