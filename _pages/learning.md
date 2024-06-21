@@ -5,7 +5,8 @@ permalink: /Learning/
 author_profile: true
 ---
 
-I was admitted to School of Gifted Young, USTC in fall 2022.
+I was admitted to School of Gifted Young, USTC at fall 2022. In the freshman year, I found myself interested in mathematics, especially in geometry and topology. During this year, I learned about basic course in mathematics, including real analysis, complex analysis, point set topology and classical differential geometry.   
+Based on the excellent grade that I obtained in the math course, I was chosen to join the Hua Loo-Keng Talent Program in Mathematics. In the second year of undergraduate, I focused more on the learning in geometry, auditing many courses including smooth manifold and Riemannian geometry. I also learned about some graduate-level courses, such as complex geometry, Riemannian surface and Morse theory etc.(For notes, see [Resources](https://lyuchangle2006.github.io/Resources/))
 
 Grade List
 ======
@@ -49,8 +50,8 @@ Grade List
   * Basic Sports(B+)
  
 
-All Curriculum GPA: 4.15  
-All Curriculum Weighted Average Score: 94.78  
+All Curriculum GPA: 4.15/4.30   
+All Curriculum Weighted Average Score: 94.78/100  
 Ranked as #1/262 in the department of mathematics by Spring 2024.  
   
 
