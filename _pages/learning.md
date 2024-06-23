@@ -5,9 +5,10 @@ permalink: /Learning/
 author_profile: true
 ---
 
-I was admitted to School of Gifted Young, USTC at fall 2022. In the freshman year, I found myself interested in mathematics, especially in geometry and topology. During this year, I learned about basic course in mathematics, including real analysis, complex analysis, point set topology and classical differential geometry.   
-Based on the excellent grade that I obtained in the math course, I was chosen to join the Hua Loo-Keng Talent Program in Mathematics. In the second year of undergraduate, I focused more on the learning in geometry, auditing many courses including smooth manifold and Riemannian geometry. I also learned about some graduate-level courses, such as complex geometry, Riemannian surface and Morse theory etc.(For notes, see [Resources](https://lyuchangle2006.github.io/Resources/))  
-Now I'm working on a lecture note on characteristic class theory for a expected seminar next year.
+* B.S. in Mathematics: University of Science and Technology of China(2022.9-2026.6) (Expected)
+* Senior High School: Lu'an No.1 Senior High School(2020.9-2022.6)
+* Junior High School: Gaocheng Junior High School(2017.9-2020.7)
+
 
 Grade List
 ======
