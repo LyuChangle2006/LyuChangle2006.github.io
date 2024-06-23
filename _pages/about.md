@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I was born in April 2006 at Lu'an Anhui. I experienced high school at Gaocheng junior high school and Lu'an No.1 senior high school respectively. Now I'm a second year undergraduate student from [School of Gifted Young](https://sgy.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/). I'm also a member of Hua Loo-Keng Talent Program in Mathematics of USTC. My current interest includes many aspects in geometry and topology, such as complex geometry and characteristic class theory. For more information about my learning, see [Learning Experience](https://lyuchangle2006.github.io/Learning/).  
+I was admitted to School of Gifted Young, USTC at fall 2022. In the freshman year, I found myself interested in mathematics, especially in geometry and topology. During this year, I learned about basic course in mathematics, including real analysis, complex analysis, point set topology and classical differential geometry.   
+Based on the excellent grade that I obtained in the math course, I was chosen to join the Hua Loo-Keng Talent Program in Mathematics. In the second year of undergraduate, I focused more on the learning in geometry, auditing many courses including smooth manifold and Riemannian geometry. I also learned about some graduate-level courses, such as complex geometry, Riemannian surface and Morse theory etc.(For notes, see [Resources](https://lyuchangle2006.github.io/Resources/))  
+My current interest includes many aspects in geometry and topology, such as complex geometry and characteristic class theory. For more information about my learning, see [Learning Experience](https://lyuchangle2006.github.io/Learning/). Now I'm working on a lecture note on characteristic class theory for a expected seminar next year.
+
 I'm also interested in music and Rubik's cube(see [Amateur Interest](https://lyuchangle2006.github.io/Interest/).  
 You can contact me by email(lcl20060401lcl@mail.ustc.edu.cn) or QQ(2732992857).
 
