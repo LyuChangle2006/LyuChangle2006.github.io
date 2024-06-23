@@ -18,6 +18,6 @@ His performance of [Galloping Horse(战马奔腾)](https://www.bilibili.com/vide
 
 Rubik's Cube
 ======
-I started cubing about seven years ago and learned almost all the WCA events(expect 5×5 blindfolded, clock and fewest move). My best level was sub9 in 3×3 cube, sub34 in 4×4 and sub68 in 5*5. My main event now is one-handed 3×3 and the training avarage is about 13s. I can also do blindfolded in 3×3 and 4×4 but I almost don't practice now.
+I started cubing about seven years ago and learned almost all the WCA events(except 5×5 blindfolded, clock and fewest move). My best level was sub9 in 3×3 cube, sub34 in 4×4 and sub68 in 5*5. My main event now is one-handed 3×3 and the training avarage is about 13s. I can also do blindfolded in 3×3 and 4×4 but I almost don't practice now.
 
 My WCA ID is [2018LUCH02](https://cubing.com/results/person/2018LUCH02) and for my videos in cubing one can check my [bilibili homepage](https://space.bilibili.com/352062828?spm_id_from=333.1007.0.0).
