@@ -14,6 +14,7 @@ In the second year of undergraduate, I joined the Hua Loo-Keng Talent Program in
 Now I'm working on a lecture note on characteristic class theory for a expected seminar next year.
 
 I'm also interested in music and Rubik's cube(see [Amateur Interest](https://lyuchangle2006.github.io/Interest/)).  
+
 You can contact me by email(lcl20060401lcl@mail.ustc.edu.cn) or QQ(2732992857).
 
 
