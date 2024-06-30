@@ -1,6 +1,7 @@
 ---
-title: "Note for the Seminar in Characteristic Class Theory"
+title: "Probability Theory Lecture Note"
 collection: publications
-excerpt: 'This is the note for the seminar in characteristic class theory written by me. It's still under working. The latest version is always uploaded here.'
-paperurl: 'http://LyuChangle2006.github.io/files/示性类.pdf'
+excerpt: 'This note is based on the course "Probability Theory(MATH3007)" of USTC, taught by [Prof. Dang-Zheng Liu](http://staff.ustc.edu.cn/~dzliu/). The note covers all the content in the course, including the basic definitions in the probability theory, discussion on random variables, law of big numbers and central limit theorem.
+'
+paperurl: 'http://LyuChangle2006.github.io/files/课程笔记Latex版.pdf'
 ---
