@@ -12,8 +12,14 @@ author_profile: true
 
 Grade List
 ======
-* Spring 2024: 
-  * 
+* Spring 2024(Semester GPA=4.18/4.30): 
+  * Real Analysis(H)(100)
+  * Probability Theory-Outer Chapter(100）
+  * Modern Algebra(H)(97)
+  * Complex Analysis(H)(92)
+  * Introduction to Chinese Important Thoughts I(93)
+  * Table Tennis II(A)
+  * A Brief History of Physics(A+)
 
 * Fall 2023(Semester GPA=4.21/4.30): 
   * Mathematical Analysis B3(96)
