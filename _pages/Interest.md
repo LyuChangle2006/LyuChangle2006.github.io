@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Amateur Interest"
+title: ""
 permalink: /Interest/
 author_profile: true
 ---
