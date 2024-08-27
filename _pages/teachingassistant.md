@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 
-2024 Autumn
+2024 Autumn - Mathematical Analysis B1(MATH1006.04)
 ======
-Mathematical Analysis B1(MATH1006.04)
 
 Lecturer: Wang Huting 
 
