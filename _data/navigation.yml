@@ -6,6 +6,9 @@ main:
   - title: "Resources"
     url: /Resources/
 
+  - title: "Teaching Assistant"
+    url: /TeachingAssistant/
+
   - title: "Amateur Interest"
     url: /Interest/
     
