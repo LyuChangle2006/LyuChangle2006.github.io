@@ -15,10 +15,15 @@ Time and Classroom: 1(3,4) 3(3,4) 5(1,2) at 5201
 
 Textbook: Mathematical Analysis Vol.1 - Cheng Yi, Chen Qing and Li Ping 
 
-Course Website: [here](https://passiflora-sago.github.io/24FallMAB1.html)
+This page is for extended content of the course for the ones who are interested in deeper and broader knowledge of this course.
+
+For the basic information of this course, check the course website [here](https://passiflora-sago.github.io/24FallMAB1.html).
 
 Chapter 1 (Limit)
 ======
 * 1.1  Real Numbers
-   *
-   *
+  * [The conception of countability and uncountability, cardinality of a set](http://LyuChangle2006.github.io/files/1.pdf)
+  * [Three ways to construct real numbers: the equivalence class of rational Cauchy sequence, infinite decimal, dedekind cut](http://LyuChangle2006.github.io/files/2.pdf)
+* 1.2  Limit of a Sequence
+  *
+  
