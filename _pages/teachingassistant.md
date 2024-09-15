@@ -24,6 +24,7 @@ Chapter 1 (Limit)
 * 1.1  Real Numbers
   * [The conception of countability and uncountability, cardinality of a set](http://LyuChangle2006.github.io/files/1.pdf)
   * [Three ways to construct real numbers: the equivalence class of rational Cauchy sequence, infinite decimal, dedekind cut](http://LyuChangle2006.github.io/files/2.pdf)
+  * [Basic definitions about topology on the real line, the sixth axiom on completeness of the real number system: finite covering condition](http://LyuChangle2006.github.io/files/3.pdf)
 * 1.2  Limit of a Sequence
-  *
-  
+  * [Toeplitz's Theorem (generalized Stolz's theorem)](https://zhuanlan.zhihu.com/p/29912566?utm_id=0): try to use this to solve Example 1.2.20 from Page 25 and exercise 11 from page 53 in the textbook.
+  * 
