@@ -34,7 +34,7 @@ Chapter 1 (Limit)
 1st Recitation Class: [Note here](http://LyuChangle2006.github.io/files/第1次习题课.pdf)
 
 
-Chapter 2(Continuity)
+Chapter 2 (Continuity)
 ======
 * 2.1 Basic Concepts
   *
