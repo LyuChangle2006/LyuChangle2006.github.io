@@ -30,7 +30,11 @@ Chapter 1 (Limit)
   * [Wallis' Formula](https://baike.baidu.com/item/%E6%B2%83%E5%88%A9%E6%96%AF%E5%85%AC%E5%BC%8F/22784701?fr=ge_ala)
   * [Stirling's Formula](https://zhuanlan.zhihu.com/p/331906704): exercise 1(4) from Page 25 and exercise 10(2) from Page 53 are direct results from this.
 * 1.3  Limit of a Function
-  *
-  *
 
 1st Recitation Class: [Note here](http://LyuChangle2006.github.io/files/第1次习题课.pdf)
+
+
+Chapter 2(Continuity)
+======
+* 2.1 Basic Concepts
+  *
