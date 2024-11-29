@@ -37,4 +37,5 @@ Chapter 1 (Limit)
 Chapter 2 (Continuity)
 ======
 * 2.1 Basic Concepts
-  *
+  *  [More general definition of continuity: topological language](https://baike.baidu.com/item/%E8%BF%9E%E7%BB%AD%E6%98%A0%E5%B0%84/18916806?fr=ge_ala)
+* 2.2 Properties of Continuous Function on a Closed Interval
