@@ -37,5 +37,14 @@ Chapter 1 (Limit)
 Chapter 2 (Continuity)
 ======
 * 2.1 Basic Concepts
-  *  [More general definition of continuity: topological language](https://baike.baidu.com/item/%E8%BF%9E%E7%BB%AD%E6%98%A0%E5%B0%84/18916806?fr=ge_ala)
+  *  [More general definition of continuity: topological language](https://zhuanlan.zhihu.com/p/370638571)
+  *  [Semi continuous function](https://blog.csdn.net/weixin_45120088/article/details/104263935)
 * 2.2 Properties of Continuous Function on a Closed Interval
+  *  [Some more properties of continuous function](http://LyuChangle2006.github.io/files/4.pdf)
+
+Chapter 3 (Derivative)
+======
+* 3.1 Derivative
+  * [Everywhere continuous but nowhere differentiable function: Weierstrass function](http://LyuChangle2006.github.io/files/5.pdf)
+* 3.2 Differential
+* 3.3 Differential Mean Value Theorem
