@@ -15,7 +15,7 @@ Time and Classroom: 1(3,4) 3(3,4) 5(1,2) at 5201
 
 Textbook: Mathematical Analysis Vol.1 - Cheng Yi, Chen Qing and Li Ping 
 
-This page is for extended content of the course for the ones who are interested in deeper and broader knowledge of this course.
+This page is for extended content of the course for the ones who are interested in deeper and broader knowledge.
 
 For the basic information of this course, check the course website [here](https://passiflora-sago.github.io/24FallMAB1.html).
 
@@ -48,3 +48,25 @@ Chapter 3 (Derivative)
   * [Everywhere continuous but nowhere differentiable function: Weierstrass function](http://LyuChangle2006.github.io/files/5.pdf)
 * 3.2 Differential
 * 3.3 Differential Mean Value Theorem
+  * [Darboux function: the function with intermediate property](https://encyclopediaofmath.org/wiki/Darboux_property)
+* 3.4 Limit of Indeterminate Forms
+* 3.5 Monotonicity and Convexity
+  * [Bounded convex function is constant](https://www.zhihu.com/question/263859516/answer/2598940423)
+  * [A convex function is differentiable at all but countably many points](https://math.stackexchange.com/questions/946311/a-convex-function-is-differentiable-at-all-but-countably-many-points)
+* 3.6 Taylor Expansion
+  * [Analytic function](https://en.wikipedia.org/wiki/Analytic_function): the function in exercise 3.6.10 is not analytic
+
+
+Chapter 4 (Indefinite Integral)
+======
+* 4.1 Basic Methods in Solving Indefinite Integral
+  * [Nonelementary indefinite integral](https://web.archive.org/web/20160612175604/http://hubpages.com:80/education/List-of-Functions-You-Cannot-Integrate-No-Antiderivatives)
+* 4.2 Indefinite Integral of Rational Function
+
+Chapter 5 (Definite Integral)
+======
+* 5.1 Integration
+  * [Lebesgue integral](https://baike.baidu.com/item/%E5%8B%92%E8%B4%9D%E6%A0%BC%E7%A7%AF%E5%88%86/966559?fr=ge_ala)
+* 5.2 Integrability
+* 5.3 Basic Applications
+* 5.4 Improper Integral
