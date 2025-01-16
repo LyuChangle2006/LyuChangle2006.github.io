@@ -70,6 +70,8 @@ Chapter 5 (Definite Integral)
   * [Lebesgue integral](https://baike.baidu.com/item/%E5%8B%92%E8%B4%9D%E6%A0%BC%E7%A7%AF%E5%88%86/966559?fr=ge_ala)
 * 5.2 Integrability
 * 5.3 Basic Applications
+  * [Calculating moment of inertia using integral](https://zhuanlan.zhihu.com/p/466928586)
+  * [Minkowski's inequality](https://en.wikipedia.org/wiki/Minkowski_inequality)
 * 5.4 Improper Integral
 
 7th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/1_数分B1第七次习题课.pdf)
@@ -79,12 +81,14 @@ Chapter 6 (Ordinary Differential Equation)
 ======
 * 6.1 First Order Differential Equation
 * 6.2 Second Order Linerar Differential Equation
+  *  [More on (high order) constant coefficient linear equation](http://LyuChangle2006.github.io/files/6.pdf)
 
 10th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/数分B1第十次习题课.pdf)
 
 Chapter 7 (Infinte Series)
 ======
 * 7.1 Number Series
+  * [Advanced tests for convergence](https://www.whitman.edu/documents/Academics/Mathematics/2019/Fix-Gordon.pdf)
 * 7.2 Function Series
 * 7.3 Power Series and Taylor Expansion
 * 7.4 Applicatoin of Series
