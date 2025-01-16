@@ -32,7 +32,9 @@ Chapter 1 (Limit)
 * 1.3  Limit of a Function
 
 1st Recitation Class: [Note here](http://LyuChangle2006.github.io/files/第1次习题课.pdf)
-
+5th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/第5次习题课讲义.pdf)
+7th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/1_数分B1第七次习题课.pdf)
+10th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/数分B1第十次习题课.pdf)
 
 Chapter 2 (Continuity)
 ======
@@ -70,3 +72,6 @@ Chapter 5 (Definite Integral)
 * 5.2 Integrability
 * 5.3 Basic Applications
 * 5.4 Improper Integral
+
+
+Chapter 6 (ODE)
