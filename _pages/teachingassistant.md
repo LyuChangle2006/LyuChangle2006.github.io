@@ -32,9 +32,6 @@ Chapter 1 (Limit)
 * 1.3  Limit of a Function
 
 1st Recitation Class: [Note here](http://LyuChangle2006.github.io/files/第1次习题课.pdf)
-5th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/第5次习题课讲义.pdf)
-7th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/1_数分B1第七次习题课.pdf)
-10th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/数分B1第十次习题课.pdf)
 
 Chapter 2 (Continuity)
 ======
@@ -58,6 +55,8 @@ Chapter 3 (Derivative)
 * 3.6 Taylor Expansion
   * [Analytic function](https://en.wikipedia.org/wiki/Analytic_function): the function in exercise 3.6.10 is not analytic
 
+5th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/第5次习题课讲义.pdf)
+
 
 Chapter 4 (Indefinite Integral)
 ======
@@ -73,5 +72,19 @@ Chapter 5 (Definite Integral)
 * 5.3 Basic Applications
 * 5.4 Improper Integral
 
+7th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/1_数分B1第七次习题课.pdf)
 
-Chapter 6 (ODE)
+
+Chapter 6 (Ordinary Differential Equation)
+======
+* 6.1 First Order Differential Equation
+* 6.2 Second Order Linerar Differential Equation
+
+10th Recitation Class: [Note here](http://LyuChangle2006.github.io/files/数分B1第十次习题课.pdf)
+
+Chapter 7 (Infinte Series)
+======
+* 7.1 Number Series
+* 7.2 Function Series
+* 7.3 Power Series and Taylor Expansion
+* 7.4 Applicatoin of Series
