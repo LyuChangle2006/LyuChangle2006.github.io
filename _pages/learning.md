@@ -12,6 +12,14 @@ author_profile: true
 
 Grade List
 ======
+* Autumn 2024(Semester GPA=?/4.30): 
+  * Smooth Manifold(99)
+  * Introduction to Algebraic Geometry(95）
+  * Topology(H)(93)
+  * Combinatorics(90)
+  * Tennis II(A)
+
+
 * Spring 2024(Semester GPA=4.25/4.30): 
   * Real Analysis(H)(100)
   * Probability Theory-Outer Chapter(100）
@@ -75,4 +83,5 @@ Prize and Scholarship
 * Bronze Prize in "Topology and Geometry", Jiuzhang Cup of Mathematics of USTC, 2024
 * Winnnig Prize in "Analysis and Partial Differential Equations", S.-T. Yau College Student Mathematics Contest, 2024
 * Winnnig Prize in "Topology and Geometry", S.-T. Yau College Student Mathematics Contest, 2024
-
+* National Scholarship, 2024
+* First Prize in the Chinese Mathematics Competitions(Anhui Province, Math major), 2024 (into the final)
