@@ -1,5 +1,5 @@
 ---
-title: "Note for Differentia Geometry(H)"
+title: "Note for Differentia Geometry(H) (2024FALL)"
 collection: publications
 excerpt: 'Note for the DG course
 '
