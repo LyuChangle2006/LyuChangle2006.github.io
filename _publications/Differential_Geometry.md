@@ -1,5 +1,5 @@
 ---
-title: "Note for Differentia Geometry(H) (2024FALL)"
+title: "Note for Differential Geometry(H) (2024FALL)"
 collection: publications
 excerpt: 'Coverage: Chap 1-5,7,8.1-8.3 of Chen Qing's textbook.
 '
