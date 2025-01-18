@@ -66,9 +66,9 @@ Grade List
   * Basic Sports(B+)
  
 
-All Curriculum GPA: 4.15/4.30   
-All Curriculum Weighted Average Score: 94.78/100  
-Ranked as #1/262 in the department of mathematics by Spring 2024.  
+All Curriculum GPA: 4.17/4.30   
+All Curriculum Weighted Average Score: 95.1/100  
+Ranked as #1/181 in the department of mathematics by Summer 2024.  
   
 
 Prize and Scholarship
