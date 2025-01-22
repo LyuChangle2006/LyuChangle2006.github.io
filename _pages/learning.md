@@ -16,6 +16,7 @@ Grade List
   * Smooth Manifold(99)
   * Introduction to Algebraic Geometry(95）
   * Topology(H)(93)
+  * Optics B(93)
   * Combinatorics(90)
   * Tennis II(A)
 
