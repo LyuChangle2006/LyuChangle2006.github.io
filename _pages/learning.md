@@ -14,7 +14,7 @@ Grade List
 ======
 * Autumn 2024(Semester GPA=?/4.30): 
   * Smooth Manifold(99)
-  * Introduction to Algebraic Geometry(95）
+  * Introduction to Algebraic Geometry(95)
   * Differential Geometry(H)(95)
   * Functional Analysis(H)(95)
   * Topology(H)(93)
