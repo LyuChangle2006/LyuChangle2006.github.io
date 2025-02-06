@@ -12,11 +12,12 @@ author_profile: true
 
 Grade List
 ======
-* Autumn 2024(Semester GPA=?/4.30): 
+* Autumn 2024(Semester GPA=4.19/4.30): 
   * Smooth Manifold(99)
   * Introduction to Algebraic Geometry(95)
   * Differential Geometry(H)(95)
   * Functional Analysis(H)(95)
+  * Public Affairs in Life(96)
   * Topology(H)(93)
   * Optics B(93)
   * Combinatorics(90)
@@ -69,8 +70,8 @@ Grade List
   * Basic Sports(B+)
  
 
-All Curriculum GPA: 4.17/4.30   
-All Curriculum Weighted Average Score: 95.1/100  
+All Curriculum GPA: 4.18/4.30   
+All Curriculum Weighted Average Score: 95.07/100  
 Ranked as #1/181 in the department of mathematics by Summer 2024.  
   
 
