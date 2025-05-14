@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I was admitted to School of Gifted Young, USTC at fall 2022 and now a member of Hua Loo-Keng Talent Program in Mathematics. I am interested in differential geometry, especially in complex geometry， symplectic geometry and their connections with topology. Music, Rubik's cube and table tennis are also important parts of my life.
+I was admitted to School of Gifted Young, USTC at fall 2022 and now I'm also a member of Hua Loo-Keng Talent Program in Mathematics. I am interested in differential geometry, especially in complex geometry, symplectic geometry and their connections with topology. Music, Rubik's cube and table tennis are also important parts of my life.
 
 I was the teaching assistant of mathematical analysis B1 in autumn semester of 2024(for more, see [Teaching Assistant](https://lyuchangle2006.github.io/TeachingAssistant/)). During 2025 spring semester, I'm now participating in the Enhanced Program for Graduate Study (2025 Spring Semester) at BICMR, PKU.
 
