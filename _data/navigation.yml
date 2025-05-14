@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Learning Experience"
-    url: /Learning/  
+  - title: "Personal Information"
+    url: /Personal/  
         
-  - title: "Resources"
-    url: /Resources/
+  - title: "Materials"
+    url: /Materials/
 
   - title: "Teaching Assistant"
     url: /TeachingAssistant/
 
-  - title: "Amateur Interest"
-    url: /Interest/
+  - title: "Interests"
+    url: /Interests/
     
   - title: "Useful Links"
     url: /Links/
