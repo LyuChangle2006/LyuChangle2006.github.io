@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Interest/
+permalink: /Interests/
 author_profile: true
 ---
 
