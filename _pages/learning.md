@@ -10,69 +10,31 @@ author_profile: true
 * Junior High School: Gaocheng Junior High School(2017.9-2020.7)
 
 
-Grade List
+Grade List in Math Courses
 ======
-* Autumn 2024(Semester GPA=4.19/4.30): 
   * Smooth Manifold(99)
   * Introduction to Algebraic Geometry(95)
   * Differential Geometry(H)(95)
   * Functional Analysis(H)(95)
-  * Public Affairs in Life(96)
   * Topology(H)(93)
-  * Optics B(93)
   * Combinatorics(90)
-  * Tennis II(A)
-
-
-* Spring 2024(Semester GPA=4.25/4.30): 
   * Real Analysis(H)(100)
   * Probability Theory-Outer Chapter(100）
   * Modern Algebra(H)(97)
   * Complex Analysis(H)(96)
-  * Introduction to Chinese Important Thoughts I(93)
-  * Table Tennis II(A)
-  * A Brief History of Physics(A+)
-
-* Fall 2023(Semester GPA=4.21/4.30): 
-  * Mathematical Analysis B3(96)
-  * Linear Algebra B2(98)
   * Probability Theory(99)
   * Introduction to Differential Equations(100)
-  * Atomic Physics B(99)
-  * English Communication Intermediate III(95)
-  * Cultures in English Communication(92)
-  * College Physics – Comprehensive Experimentation B(87)
-  * Fundamentals of Marxism(85)
-
-* Spring 2023(Semester GPA=4.11/4.30): 
+  * Mathematical Analysis B3(96)
+  * Linear Algebra B2(98)
   * Mathematical Analysis B2(96)
   * Linear Algebra B1(97)
-  * Electromagnetism A(98)
-  * Thermotics B(100)
-  * English Communication Intermediate II(90)
-  * English Reading & Writing Upper Intermediate II(93)
-  * An Outline of Modern and Contemporary Chinese History(88)
-  * College Physics – Base Experimentation A(91)
-  * Collegiate Psychology(A)
-  * Freshman Seminar(A-)
-  * Table Tennis I(A-)
-  *  Scientific Writing and Communication(A-)
-
-* Fall 2022(Semester GPA=4.15/4.30): 
   * Mathematical Analysis B1(100)
   * Foundations of Geometry(95)
-  * Mechanics A(90)
-  * Computer Programming A(96)
-  * English Communication Intermediate I(95)
-  * English Reading & Writing Upper Intermediate I(96)
-  * Moral and Legal Education(95)
-  * Introduction to Chinese Important Thoughts II(88)
-  * Basic Sports(B+)
  
 
 All Curriculum GPA: 4.18/4.30   
 All Curriculum Weighted Average Score: 95.07/100  
-Ranked as #1/181 in the department of mathematics by Summer 2024.  
+Ranked as #1/180 in the department of mathematics by Autumn 2024.  
   
 
 Prize and Scholarship
@@ -88,4 +50,5 @@ Prize and Scholarship
 * Winnnig Prize in "Analysis and Partial Differential Equations", S.-T. Yau College Student Mathematics Contest, 2024
 * Winnnig Prize in "Topology and Geometry", S.-T. Yau College Student Mathematics Contest, 2024
 * National Scholarship, 2024
-* First Prize in the Chinese Mathematics Competitions(Anhui Province, Math major), 2024 (into the final)
+* First Prize in the Chinese Mathematics Competitions(Anhui Province, Math major), 2024
+* First Prize in the Chinese Mathematics Competitions Final(Math major, senior grades), 2025
