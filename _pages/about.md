@@ -11,6 +11,6 @@ I was admitted to School of Gifted Young, USTC at fall 2022 and now I'm also a m
 
 I was the teaching assistant of mathematical analysis B1 in autumn semester of 2024(for more, see [Teaching Assistant](https://lyuchangle2006.github.io/TeachingAssistant/)). During 2025 spring semester, I'm now participating in the Enhanced Program for Graduate Study (2025 Spring Semester) at BICMR, PKU.
 
-One can check [Resources](https://lyuchangle2006.github.io/Resources/)) for notes that I made(basically hand-written) in various courses and topics. Also one can contact me by email(lcl20060401lcl@mail.ustc.edu.cn) or QQ(2732992857).
+One can check [Materials](https://lyuchangle2006.github.io/Materials/) for notes that I made(basically hand-written) in various courses and topics. Also one can contact me by email(lcl20060401lcl@mail.ustc.edu.cn) or QQ(2732992857).
 
 
