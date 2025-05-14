@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Learning Experience"
-permalink: /Learning/
+title: "Personal Information"
+permalink: /Personal/
 author_profile: true
 ---
 
