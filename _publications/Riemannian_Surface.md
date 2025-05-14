@@ -1,7 +1,7 @@
 ---
 title: "Note for Riemannian Surface"
 collection: publications
-excerpt: 'This is the note on Riemannian surface. The reference textbook is "Riemannian Surface" by Mei Jiaqiang. The note is divided into two parts. <br>
+excerpt: 'This is the note on Riemannian surface. The reference textbook is "Riemannian Surface" by Mei Jiaqiang. The note is divided into two parts since there is a restriction on file size when uploading files on Github. <br>
 
 Part I: Basic definition of Riemann surfaces, uniformization theorem, Riemann-Roch theorem. <br>
 
