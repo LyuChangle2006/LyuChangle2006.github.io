@@ -1,5 +1,5 @@
 ---
-title: "$$\{color{red}Note \space for \space Complex \space Geometry(NOT \space COMPLETED)}$$"
+title: "Note for Complex Geometry(NOT COMPLETED)"
 collection: publications
 excerpt: 'I made this note when learning the video course of complex geometry taught by [**Prof. Zhang Xi**](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=3631) in 2020SP semester. The video can be found [here](https://tysunseven.github.io/video/Complex%20Geometry%202020S.html). The note is divided into two parts.   <br>
 <br>
