@@ -2,7 +2,7 @@
 title: "Note for Elliptic PDE"
 collection: publications
 excerpt: 'This note is for basic elliptic partial differential equation theory, covering: <br>
-   - 1. Maximum principles, boundedness estimate, global gradient estimate, interior gradient estimate and logarithmical gradient estimate of uniform elliptic equations; <br>
+   $~~~~~~~~~$- 1. Maximum principles, boundedness estimate, global gradient estimate, interior gradient estimate and logarithmical gradient estimate of uniform elliptic equations; <br>
    - 2. Basic theory of Sobolev space(definitions, inequalities, approximation, extension, trace); <br>
    - 3. Weak solution of divergence type uniform elliptic equations; <br>
    - 4. Bootstrap theory(Schauder theory, De Giorgi theory, Evans-Krylov estimate, Krylov-Safonov estimate); <br>
