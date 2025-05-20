@@ -1,7 +1,7 @@
 ---
 title: "Note for Elliptic PDE"
 collection: publications
-excerpt: 'This note is for basic elliptic partial differential equation theory, covering: <br>
+excerpt: 'This note is for basic **elliptic partial differential equation theory**, covering: <br>
 <br>
 <br>
     1. Maximum principles, boundedness estimate, global & interior & logarithmical gradient estimate of uniform elliptic equations; <br>
@@ -11,7 +11,7 @@ excerpt: 'This note is for basic elliptic partial differential equation theory, 
     5. Linear evolution equations(weak solutions of parabolic equation and hyperbolic equation). <br>
 <br>
 <br>
-Reference: Lecture note of Ma, textbooks from Evans, Gilbarg & Trudinger, Liu Q. & Han F.H.
+Reference: Lecture note of ***Ma***, textbooks from ***Evans, Gilbarg & Trudinger, Liu Q. & Han F.H***.
 
 
 '
