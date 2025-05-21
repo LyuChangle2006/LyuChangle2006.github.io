@@ -1,7 +1,7 @@
 ---
 title: "Note for Introduction to Algebraic Geometry I (2024FALL)"
 collection: publications
-excerpt: 'Note for the introduction to algebraic geometry course(MATH5016P.01). The lecturer is [Prof. Zhanglei](http://staff.ustc.edu.cn/~zhlei18/) <br>
+excerpt: 'Note for the introduction to algebraic geometry course(MATH5016P.01). The lecturer is [**Prof. Zhanglei**](http://staff.ustc.edu.cn/~zhlei18/) <br>
 <br>
 <br>
   Chap 1: Variety(basic definitions, Hilbert Nullstellensatz, polynomial map and coordinate ring, normal function, function field, rational/birational/dominant map, dimension and smoothness)   <br>
