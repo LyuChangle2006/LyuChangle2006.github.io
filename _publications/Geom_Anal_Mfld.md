@@ -1,7 +1,7 @@
 ---
 title: "Note on the book Geometry and Analysis on Manifolds"
 collection: publications
-excerpt:'This note is for the book ***Geometry and Analysis on Manifolds*** by **Zhang Weiping**. Covering:   <br>
+excerpt: 'This note is for the book ***Geometry and Analysis on Manifolds*** by **Zhang Weiping**. Covering:   <br>
 <br>
       1. Chern-Weil theory in the language of super bundle; localization formulas(Duistermaat-Heckman, Berline-Vergne, etc.); Bott vanishing theorem(adiabatic connection)<br>
         2. Construction of Thom and Euler class(Berezin integral or Clifford action);  Gauss-Bonnet-Chern formula through transgression <br>
