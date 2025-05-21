@@ -9,5 +9,5 @@ author_profile: true
 [Wolfram Alpha](https://www.wolframalpha.com/)  
 [Video courses in the homepage of Sun Tianyang](https://tysunseven.github.io/video/index.html)  
 [USTC Math](https://math.ustc.edu.cn/main.htm)  
-[USTC Math Exam](https://ustcmathexam.github.io/)
+[USTC Math Exam](https://ustcmathexam.github.io/)  
 [Wikipedia](https://en.wikipedia.org/wiki/Wiki)
