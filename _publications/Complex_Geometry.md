@@ -9,7 +9,7 @@ excerpt: 'I made this note when learning the video course of complex geometry ta
   Part II: Hodge theory, Chern-Weil theory, sheaf theory and stability of vector bundle, line bundle and vanishing theorem, Hermitian-Einstein bundle, Donaldson-Uhlenbeck-Yau theorem and  Calabi-Yau theorem.   <br>
 <br>
 <br>
-One may refer to ***Differential Geometry of Complex Vector Bundles*** by Kobayashi for Chapter 1 to 7 of this course. '
+One may refer to ***Differential Geometry of Complex Vector Bundles*** by **Kobayashi** for Chapter 1 to 7 of this course. '
 paperurl: 'http://LyuChangle2006.github.io/files/复几何笔记II.pdf'
 slidesurl: 'http://LyuChangle2006.github.io/files/复几何笔记I.pdf'
 ---
