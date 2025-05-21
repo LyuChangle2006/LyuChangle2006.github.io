@@ -12,24 +12,16 @@ author_profile: true
 
 Grade List in Math Courses
 ======
-  * Smooth Manifold(99)
+  * Smooth Manifold(99)            * Differential Geometry(H)(95)
   * Introduction to Algebraic Geometry(95)
-  * Differential Geometry(H)(95)
-  * Functional Analysis(H)(95)
-  * Topology(H)(93)
-  * Combinatorics(90)
-  * Real Analysis(H)(100)
-  * Probability Theory-Outer Chapter(100）
-  * Modern Algebra(H)(97)
-  * Complex Analysis(H)(96)
-  * Probability Theory(99)
+  * Functional Analysis(H)(95)     * Topology(H)(93) 
+  * Real Analysis(H)(100)          * Combinatorics(90)
+  * Modern Algebra(H)(97)          * Complex Analysis(H)(96)
+  * Probability Theory(99)         * Probability Theory-Outer Chapter(100）
   * Introduction to Differential Equations(100)
-  * Mathematical Analysis B3(96)
-  * Linear Algebra B2(98)
-  * Mathematical Analysis B2(96)
-  * Linear Algebra B1(97)
-  * Mathematical Analysis B1(100)
-  * Foundations of Geometry(95)
+  * Mathematical Analysis B3(96)   * Linear Algebra B2(98)
+  * Mathematical Analysis B2(96)   * Linear Algebra B1(97)
+  * Mathematical Analysis B1(100)  * Foundations of Geometry(95)
  
 
 All Curriculum GPA: 4.18/4.30   
