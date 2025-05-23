@@ -14,7 +14,7 @@ excerpt: 'This is a note on Ricci flow, based on the content of the course **Fou
   7. Solitons and special solutions, geometry at spatial infinity.
 <br>
 <br>
-One may refer to Chapter 1 to 5 in ***Hamiltons Ricci Flow*** by **Bennett Chow **, ***Lectures on the Ricci Flow*** by **Topping** and ***Ricci Flow and the Sphere Theorem*** by **Brendle**. '
+One may refer to Chapter 1 to 5 in ***Hamiltons Ricci Flow*** by **Bennett Chow**, ***Lectures on the Ricci Flow*** by **Topping** and ***Ricci Flow and the Sphere Theorem*** by **Brendle**. '
 paperurl: 'http://LyuChangle2006.github.io/files/Ricci流笔记.pdf'
 ---
 
