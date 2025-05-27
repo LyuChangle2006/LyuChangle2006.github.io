@@ -29,7 +29,7 @@ All Curriculum Weighted Average Score: 95.07/100
 Ranked as #1/180 in the department of mathematics by Autumn 2024.  
   
 
-Prize and Scholarship
+Prize and Scholarship (sort by time)
 ======
 * First Prize in National Olympiad in Informatics in Provinces(Anhui Province), 2020
 * First Prize in National High School Mathematics League(Anhui Province), 2021
@@ -37,8 +37,8 @@ Prize and Scholarship
 * National Scholarship, 2023 & 2024
 * Scholarship for Hua Loo-Keng Talent Program in Mathematics, 2023 & 2024
 * First Prize in the Chinese Mathematics Competitions(Anhui Province, Math major), 2023 & 2024
-* Bronze Prize in "Analysis and Partial Differential Equations", Jiuzhang Cup of Mathematics of USTC, 2024
-* Bronze Prize in "Topology and Geometry", Jiuzhang Cup of Mathematics of USTC, 2024
-* Winnnig Prize in "Analysis and Partial Differential Equations", S.-T. Yau College Student Mathematics Contest, 2024
-* Winnnig Prize in "Topology and Geometry", S.-T. Yau College Student Mathematics Contest, 2024
+* Bronze Prize in "Analysis and PDE" and "Topology and Geometry", Jiuzhang Cup of Mathematics of USTC, 2024
+* Winnnig Prize in "Analysis and PDE", S.-T. Yau College Student Mathematics Contest, 2024
+* Winnnig Prize in "Topology and Geometry", S.-T. Yau College Student Mathematics Contest, 2024 & 2025
+* Outstanding Teaching Assitant (for TA of Mathematical Analysis B1, FA2024), 2025
 * First Prize in the Chinese Mathematics Competitions Final(Math major, senior grades), 2025
