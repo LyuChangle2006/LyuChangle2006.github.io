@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Materials"
 permalink: /Materials/
 author_profile: true
 ---
