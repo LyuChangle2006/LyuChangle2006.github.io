@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Teaching Assistant"
 permalink: /TeachingAssistant/
 author_profile: true
 ---
