@@ -25,8 +25,8 @@ Grade List in Math Courses
  
 
 All Curriculum GPA: 4.18/4.30   
-All Curriculum Weighted Average Score: 95.07/100  
-Ranked as #1/180 in the department of mathematics by Autumn 2024.  
+All Curriculum Weighted Average Score: 95.15/100  
+Ranked as #1/180 in the Mathematics and Applied Mathematics major by Autumn 2024.  
   
 
 Prize and Scholarship (sort by time)
