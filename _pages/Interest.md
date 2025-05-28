@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Interests"
 permalink: /Interests/
 author_profile: true
 ---
