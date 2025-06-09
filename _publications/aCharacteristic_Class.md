@@ -1,5 +1,5 @@
 ---
-title: "Note in Characteristic Class Theory(Ver. 20240728)"
+title: "Note for Seminar in Characteristic Class Theory(Latex typed)"
 collection: publications
 excerpt: 'This note is about characteristic class theory in topology and differential geometry. <br>
 Reference: <br>
