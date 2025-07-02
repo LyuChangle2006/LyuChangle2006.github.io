@@ -2,6 +2,7 @@
 title: "Note for Seminar in Characteristic Class Theory(Latex typed)"
 collection: publications
 permalink: Notes/Char_Class
+excerpt: ' '
 paperurl: 'http://LyuChangle2006.github.io/files/示性类.pdf'
 ---
 
