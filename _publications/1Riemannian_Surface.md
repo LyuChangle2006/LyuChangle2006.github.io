@@ -14,7 +14,7 @@ The note covers the following:
 Part I:       
      1. Basic complex analysis, harmonic functions, Riemann mapping theorem <br>
       2. Definitions of Riemann surface, meromorphic function/differential, subharmonic to harmonic(Perron method), uniformization theorem <br>
-     3. Divisor, Hodge decomposition theorem, Riemann-Roch formula and proof <br?
+     3. Divisor, Hodge decomposition theorem, Riemann-Roch formula and proof <br>
      4.Applications of Riemann-Roch: various merofunctions on Riemann surface, function field, ellptic function, embedding, Riemann-Hurwitz formula, bi-linear relations, Abel-Jacobi theorem <br>
             
       Part II:  <br>
