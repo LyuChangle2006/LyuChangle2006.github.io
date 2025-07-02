@@ -1,7 +1,7 @@
 ---
 title: "Note for Complex Geometry(NOT COMPLETED)"
 collection: publications
-permalink: Notes\Comp_Geom
+permalink: Notes/Comp_Geom
 paperurl: 'http://LyuChangle2006.github.io/files/复几何笔记II.pdf'
 slidesurl: 'http://LyuChangle2006.github.io/files/复几何笔记I.pdf'
 ---
