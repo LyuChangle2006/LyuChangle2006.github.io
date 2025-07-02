@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching Assistant"
-permalink: /TeachingAssistant/MA_B1_2024
+permalink: /TeachingAssistant/
 author_profile: true
 ---
 
