@@ -1,6 +1,7 @@
 ---
 title: "A Very Brief Note about Symplectic Topology"
 collection: publications
+permalink: Notes/Symo_Topo
 excerpt: 'This is a very very brief note on symplectic topology.  '
 paperurl: 'http://LyuChangle2006.github.io/files/辛拓扑.pdf'
 ---
