@@ -1,6 +1,7 @@
 ---
 title: "Note on the book Geometry and Analysis on Manifolds"
 collection: publications
+permalink: Notes/Geom_Anal_Mfld
 excerpt: 'This note is for the book ***Geometry and Analysis on Manifolds*** by **Zhang Weiping**.'
 paperurl: 'http://LyuChangle2006.github.io/files/Geom_Anal_Mfld.pdf'
 ---
