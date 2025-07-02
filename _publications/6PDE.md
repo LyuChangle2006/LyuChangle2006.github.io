@@ -1,6 +1,7 @@
 ---
 title: "Note for Elliptic PDE"
 collection: publications
+permalink: Notes/PDE
 paperurl: 'http://LyuChangle2006.github.io/files/PDE.pdf'
 ---
 
