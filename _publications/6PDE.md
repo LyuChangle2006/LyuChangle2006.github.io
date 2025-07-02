@@ -2,7 +2,7 @@
 title: "Note for Elliptic PDE"
 collection: publications
 permalink: Notes/PDE
-excerpt:'This is a note on ellptic PDE theory, corresponding to the course MATH5009P.'
+excerpt:' This is a note on ellptic PDE theory, corresponding to the course MATH5009P. '
 paperurl: 'http://LyuChangle2006.github.io/files/PDE.pdf'
 ---
 
