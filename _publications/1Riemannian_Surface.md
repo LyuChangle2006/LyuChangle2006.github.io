@@ -2,7 +2,7 @@
 title: "Note for Riemannian Surface"
 collection: publications
 permalink: /Notes/Riem_Surf
-excerpt: 'This is the note on Riemannian surface. The reference textbook is ***Riemannian Surface*** by **Mei Jiaqiang**. The note is divided into two parts since there is a restriction on file size when uploading files on Github. For more information click the hyperlink above. 
+excerpt: 'This is the note on Riemannian surface. The reference textbook is ***Riemannian Surface*** by **Mei Jiaqiang**. The note is divided into two parts since there is a restriction on file size when uploading files on Github.
   '
 
 paperurl: 'http://LyuChangle2006.github.io/files/黎曼曲面笔记II.pdf'
