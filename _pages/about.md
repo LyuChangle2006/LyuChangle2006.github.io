@@ -11,6 +11,6 @@ I was admitted to $${\color{lime}School \space of \space Gifted \space Young, \s
 
 I was the teaching assistant of Mathematical Analysis B1 in autumn semester of 2024(for more, see [Teaching Assistant](https://lyuchangle2006.github.io/TeachingAssistant/)). During 2025 spring semester, I'm now participating in the _Enhanced Program for Graduate Study_ at **BICMR, PKU**.
 
-One can check [Notes](https://lyuchangle2006.github.io/Notes/) for notes that I made(basically hand-written) in various courses and topics. Also one can contact me by email(lcl20060401lcl@mail.ustc.edu.cn) or QQ(2732992857).
+One can check the [notes](https://lyuchangle2006.github.io/Notes/) that I made(basically hand-written) when learning some mathematics. Also one can contact me by email(lcl20060401lcl@mail.ustc.edu.cn) or QQ(2732992857).
 
 
