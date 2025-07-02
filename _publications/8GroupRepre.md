@@ -2,6 +2,7 @@
 title: "Note for group representation theory"
 collection: publications
 permalink: Notes/Group_Repre
+excerpt: ' '
 paperurl: 'http://LyuChangle2006.github.io/files/群表示论笔记.pdf'
 ---
 
