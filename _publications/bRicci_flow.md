@@ -1,7 +1,7 @@
 ---
 title: "Note on basics of Ricci flow"
 collection: publications
-Permalink: Notes/Ricci_Flow
+permalink: Notes/Ricci_Flow
 excerpt: 'This is a note on Ricci flow, based on the content of the course **Foundations of Ricci flow** taught by [**Prof. Li Yu**](https://sites.google.com/view/yuli21/home).  '
 paperurl: 'http://LyuChangle2006.github.io/files/Ricci流笔记.pdf'
 ---
