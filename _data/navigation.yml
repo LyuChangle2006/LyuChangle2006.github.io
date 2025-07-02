@@ -3,8 +3,8 @@ main:
   - title: "Personal Information"
     url: /Personal/  
         
-  - title: "Materials"
-    url: /Materials/
+  - title: "Notes"
+    url: /Notes/
 
   - title: "Teaching Assistant"
     url: /TeachingAssistant/
