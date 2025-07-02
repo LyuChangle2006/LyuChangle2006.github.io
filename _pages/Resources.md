@@ -5,6 +5,8 @@ permalink: /Notes/
 author_profile: true
 ---
 
+You may download my notes in this page and click on the title of each note to get more information.
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
