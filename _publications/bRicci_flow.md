@@ -1,5 +1,5 @@
 ---
-title: "Note on basics of Ricci flow"
+title: "Note on Basics of Ricci flow"
 collection: publications
 permalink: Notes/Ricci_Flow
 excerpt: 'This is a note on Ricci flow, based on the content of the course **Foundations of Ricci flow** taught by [**Prof. Li Yu**](https://sites.google.com/view/yuli21/home).  '
