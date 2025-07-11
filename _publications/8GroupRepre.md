@@ -1,5 +1,5 @@
 ---
-title: "Note for group representation theory"
+title: "Note for Group Representation Theory"
 collection: publications
 permalink: Notes/Group_Repre
 excerpt: ' '
