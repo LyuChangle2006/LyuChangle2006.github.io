@@ -2,7 +2,8 @@
 title: "Typed Lecture Note of Modern Algebra(H)"
 collection: publications
 permalink: Notes/Modern_Alg
-excerpt: ''
+excerpt: 'Typed note for the modern algebra(H) course.
+'
 paperurl: 'http://LyuChangle2006.github.io/files/近世代数(H)讲义.pdf'
 ---
 
