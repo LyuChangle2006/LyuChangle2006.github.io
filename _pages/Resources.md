@@ -2,7 +2,7 @@
 layout: archive
 title: "Notes"
 permalink: /Notes/
-author_profile: true
+author_profile: false
 ---
 
 You may download my notes in this page and click on the title of each note to get more information.
