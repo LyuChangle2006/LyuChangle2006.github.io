@@ -5,7 +5,7 @@ permalink: /TeachingAssistant/
 author_profile: true
 ---
 
-[2025秋季- 数学分析(B1)(MATH1006.11)](https://lyuchangle2006.github.io/TeachingAssistant/MA_B1_2024)
+[2025秋季- 数学分析(B1)(MATH1006.11)](https://lyuchangle2006.github.io/TeachingAssistant/MA_B1_2025)
 ======
 
 [2024秋季- 数学分析(B1)(MATH1006.04)](https://lyuchangle2006.github.io/TeachingAssistant/MA_B1_2024)
