@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
-
 My name is Lyu Changle(吕长乐 in Chinese). I am currently an undergraduate in the School of Gifted Young at University of Science and Technology of China and a member of Hua Loo-Keng Talent Program in Mathematics. I am expected to obtain B.S. in mathematics and begin my Ph.D at Peking University in 2026.
 
 My mathematical interests lie in symplectic geometry and contact geometry. More specifically, I focus on deriving quantities from symplectic(contact) geometry and applying these to obtain results on dynamics and topology on symplectic(contact) manifolds.
