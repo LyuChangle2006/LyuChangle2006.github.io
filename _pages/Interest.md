@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /Interests/
+permalink: /Personal/
 author_profile: true
 ---
 
+Here are some of my hobbies.
 
 Music
 ======
