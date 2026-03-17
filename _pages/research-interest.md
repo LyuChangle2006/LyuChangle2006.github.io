@@ -5,6 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 
-* B.S. in Mathematics: University of Science and Technology of China(2022.9-2026.6) (Expected)
-* Senior High School: Lu'an No.1 Senior High School(2020.9-2022.6)
-* Junior High School: Gaocheng Junior High School(2017.9-2020.7)
+My research interests are symplectic topology, contact topology and dynamics. Now I am focusing on the following projects:
+  * Use recent-developed global Kuranishi techniques to construct Z_p-equivariant Floer homology
+  * Derive quantitative invariants(e.g. spectral invariants, barcodes, barcode entropy) from various homologies(e.g. S^1-invariant Rabinowitz Floer homology, Embedded Contact Homology)
+  * Detect various rigidity results in symplectic(contact) topology
