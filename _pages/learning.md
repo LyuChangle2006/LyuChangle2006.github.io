@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Personal Information"
-permalink: /Personal/
+permalink: /Personal_Information/
 author_profile: true
 ---
 
