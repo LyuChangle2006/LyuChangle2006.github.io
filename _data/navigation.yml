@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "Personal Information"
-    url: /Personal/  
+  - title: "Research Interst"
+    url: /Research/  
         
   - title: "Notes"
     url: /Notes/
 
-  - title: "Teaching Assistant"
-    url: /TeachingAssistant/
-
-  - title: "Interests"
-    url: /Interests/
+  - title: "Personal"
+    url: /Personal/
     
   - title: "Useful Links"
     url: /Links/
