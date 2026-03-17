@@ -22,11 +22,29 @@ We might have met or communicated at:
   * [2026 SNU-USTC Conference on Symplectic Geometry](https://sites.google.com/view/snu-ustc-symplectic/home), Seoul National University, Seoul, South Korea, 2026/04/02-2026/04/05
 
 
+Prize and Scholarship (sort by time)
+======
+* First Prize in National Olympiad in Informatics in Provinces(Anhui Province), 2020
+* First Prize in National High School Mathematics League(Anhui Province), 2021
+* Outstanding Freshman Scholarship, 2022
+* National Scholarship, 2023 & 2024
+* Scholarship for Hua Loo-Keng Talent Program in Mathematics, 2023 & 2024
+* First Prize in the Chinese Mathematics Competitions(Anhui Province, Math major), 2023 & 2024
+* Bronze Prize in "Analysis and PDE" and "Topology and Geometry", Jiuzhang Cup of Mathematics of USTC, 2024
+* Winnnig Prize in "Analysis and PDE", S.-T. Yau College Student Mathematics Contest, 2024
+* Winnnig Prize in "Topology and Geometry", S.-T. Yau College Student Mathematics Contest, 2024 & 2025
+* Outstanding Teaching Assitant (for TA of Mathematical Analysis B1, FA2024), 2025
+* First Prize in the Chinese Mathematics Competitions Final(Math major, senior grades), 2025
+
+
+
 Contact Information
 ======
 Email: lcl20060401lcl at ustc dot edu dot cn
 
 QQ: 2732992857
+
+
 
 
 
