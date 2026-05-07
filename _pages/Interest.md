@@ -10,10 +10,10 @@ Here are some of my hobbies.
 Music
 ======
 
-Music is one of the most important parts of my life. I listen to a variety of music and I'm mainly interested in Hip-Hop music, experimental music and rock music. I'm a huge fan of JPEGMAFIA(aka Devon  Hendryx). He makes great experimental hip-hop music and can ride many other genres. His collaborative album with Danny Brown ***SCARING THE HOES*** is my album of 2023.([CHECK THIS OUT!](https://www.bilibili.com/video/BV1Mb421b7is/?spm_id_from=333.337.search-card.all.click&vd_source=99b39d3f5c3e4d73041e7a35c1928804)). I also recommand _Death Grips, Kanye West, billy woods, Ka and McKinley Dixon_ for more hip-hop music. I'm very interested in production(including chopping samples, drums, etc.) of hip-hop music.
+Music is one of the most important parts of my life. I listen to a variety of music and I'm mainly interested in Hip-Hop music, experimental music and rock music. I'm a huge fan of JPEGMAFIA(aka Devon  Hendryx). He makes great experimental hip-hop music and can ride many other genres. His collaborative album with Danny Brown ***SCARING THE HOES*** is my album of 2023([CHECK THIS OUT!](https://www.bilibili.com/video/BV1Mb421b7is/?spm_id_from=333.337.search-card.all.click&vd_source=99b39d3f5c3e4d73041e7a35c1928804)). I also recommand _Death Grips, Kanye West, billy woods, Ka and McKinley Dixon_ for more hip-hop music. I'm very interested in production(including chopping samples, drums, etc.) of hip-hop music.
 
 I'm also a fan of Chinese traditional instruments, especially Erhu, which I've played for many years. I suggest George Gao's creative work in Shaoqin(韶琴), which is a huge innovation of the traditional Erhu. He combines the elements in violin greatly, and even makes the instrument plugged to do some rock music. His famous work is his series of Capriccios No.1 to No.6.
-His performance of [Galloping Horse(战马奔腾)](https://www.bilibili.com/video/BV1ot411r7Lg/?spm_id_from=333.337.search-card.all.click) is the most viewed video of Erhu on Youtube.
+His performance of [Galloping Horse(战马奔腾)](https://www.bilibili.com/video/BV1ot411r7Lg/?spm_id_from=333.337.search-card.all.click) is the most viewed video about Erhu on Youtube.
 
 Racing in intellectual games
 ======
