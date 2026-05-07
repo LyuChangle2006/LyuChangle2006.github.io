@@ -17,7 +17,7 @@ His performance of [Galloping Horse(战马奔腾)](https://www.bilibili.com/vide
 
 Racing in intellectual games
 ======
-I love doing competitive racing in intellectual sports. The most intersting one for me is the [Rubik's cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube): I started cubing about seven years ago and learned almost all the WCA events(except 5×5 blindfolded, clock and fewest move). My best level **was sub9 in 3×3 cube, sub34 in 4×4 and sub68 in 5×5.** My main event now is one-handed 3×3 and the training avarage is about 13s. My main event is 4×4 now. 
+I love doing competitive racing in intellectual sports. The most intersting one for me is the [Rubik's cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube): I started cubing about seven years ago and learned almost all the WCA events(except 5×5 blindfolded, clock and fewest move). My best level **was sub9 in 3×3 cube, sub34 in 4×4 and sub68 in 5×5.** My main event now is one-handed 3×3 and the training avarage is about 13s. I also do 4×4 a lot. 
 
 I also spend times in doing speedrace [Sudoku](https://en.wikipedia.org/wiki/Sudoku) and [minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
