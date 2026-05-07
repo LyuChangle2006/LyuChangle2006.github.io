@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 My research interests are symplectic topology, contact topology and dynamics. Now I am focusing on the following projects:
-  * Large-scale Hofer geometry and spectral geometry
+  * Study Hofer geometry and spectral geometry from a large scale perspective
   * Detect various phenomena in symplectic(contact) topology and dynamics via quantitative method
   * Use recent-developed global Kuranishi techniques to study symplectic(contact) geometry
   * Derive quantitative invariants(e.g. spectral invariants, barcodes, barcode entropy) from various homologies(e.g. Hamiltonian Floer homology, Rabinowitz Floer homology, Embedded contact homology)
   * Discover connections between symplectic geometry and algebraic geometry
 
-The following are some research writings.
+The followings are some research writings.
  * [Various measurements on the space of contact forms](http://LyuChangle2006.github.io/files/Inequality%20chain.pdf)
  * [Superheaviness result on the skeleton of divisor complement](http://LyuChangle2006.github.io/files/Superheaviness.pdf)
  * [Linked twisted maps and Hofer distance](http://LyuChangle2006.github.io/files/Aut_inf.pdf)
